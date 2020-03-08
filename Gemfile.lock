@@ -398,6 +398,7 @@ DEPENDENCIES
   chromedriver-helper
   coffee-rails (~> 4.2)
   devise
+  dotenv-rails
   enum_help
   factory_bot_rails
   faker
